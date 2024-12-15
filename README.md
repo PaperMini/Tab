@@ -63,7 +63,7 @@ the [PlaceholderAPI documentation](https://wiki.placeholderapi.com/) to discover
 `raw` - The Message. Supports MiniMessage and Placeholders from PlaceholderAPI  
 `animated` - If set to true, the plugin will try to animate the text  
 
-> [!IMPORTATN]  
+> [!IMPORTANT]  
 > Animations are created by (ab)using the `power` feature of MiniMessage. If you want to use them, please make
 > sure you include the placeholder `<x>` as the last argument of your Gradient. Refer to the
 > [MiniMessage Documentation](https://docs.advntr.dev/minimessage/format.html#gradient) to learn more, or have  look at
